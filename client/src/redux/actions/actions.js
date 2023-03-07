@@ -18,6 +18,9 @@ export const GET_PROFILE = 'GET_PROFILE'
 export const GET_ADVISORS_REVIEWS = 'GET_ADVISORS_REVIEWS'
 export const BLOCK_ACCOUNT = 'BLOCK_ACCOUNT'
 export const UNBLOCK_ACCOUNT = 'UNBLOCK_ACCOUNT'
+const SantaUrl = 'https://code-advisor-4mjear53q-codigojaguar.vercel.app';
+const AngelUrl = 'https://code-advisor-back.vercel.app'    // link1   ------> https://github.com/Angel-pv/CodeAdvisor_Back/
+const AngelUrl2= 'https://code-advisor-xi.vercel.app'     //  link2   ------> https://github.com/sergioare/CodeAdvisor/tree/main/server
 
 
 export const getAutors = () => {
